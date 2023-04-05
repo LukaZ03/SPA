@@ -1,2 +1,0 @@
-# SPA
-domaca zadaca
